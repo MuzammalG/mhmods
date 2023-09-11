@@ -1,5 +1,6 @@
-MHWhatsApp / GBWhatsApp Update Notifier~
-by Muzammal Hussain..
+𝙈𝙃𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 / 𝙂𝘽𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝙐𝙥𝙙𝙖𝙩𝙚 𝙉𝙤𝙩𝙞𝙛𝙞𝙚𝙧~
+𝙗𝙮 𝙈𝙪𝙯𝙖𝙢𝙢𝙖𝙡 𝙃𝙪𝙨𝙨𝙖𝙞𝙣.
+
 
 ![MHWhatsApp By MH](https://github.com/MuzammalG/mhmods/assets/111923729/5b873337-2a19-4d40-bfcd-84a72e2348ee)
 
@@ -7,19 +8,18 @@ by Muzammal Hussain..
 Download MHWhatsApp From
 https://mhwhatsapps.blogspot.com
 
-The Latest Version Of MHWhatsApp is: (V9.81)
-🅼🆄🆉🅰🅼🅼🅰🅻 🅷🆄🆂🆂🅰🅸🅽
-
-Download From link below:
+𝗧𝗵𝗲 𝗟𝗮𝘁𝗲𝘀𝘁 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗢𝗳 𝗠𝗛𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗶𝘀: (𝗩𝟵.𝟴𝟭)
+[mh9 81](https://github.com/MuzammalG/mhmods/assets/111923729/adaa3a5e-e1b5-4acc-8c8a-5eb781d2774e)
+𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐅𝐫𝐨𝐦 𝐥𝐢𝐧𝐤 𝐛𝐞𝐥𝐨𝐰:
 http://za.gl/mh981
 
-What's New in V9.81
+🆆🅷🅰🆃'🆂 🅽🅴🆆 🅸🅽 🆅9.81
 
-⏫ Base Updated 2.23.13.76
-📌 Exclusive Added "Mark As Read" inside chat when hide blue tick is enabled
-📌 Exclusive Media Backup/Restore option (Images, Videos, etc.)
-—> MHWA > Universal > Backup and Restore
-- Useful for Android 11+ users to backup media before uninstall
+⏫ Base Updated 2.23.13.76!/
+📌 Exclusive Added "Mark As Read" inside chat when hide blue tick is enabled/
+📌 Exclusive Media Backup/Restore option (Images, Videos, etc.)/
+—> MHWA > Universal > Backup and Restore/
+- Useful for Android 11+ users to backup media before uninstall/
 ➕ Added See Original Message before Edit
 ➕ Added Save feature for new Video Messages
 ➕ Added icon next to "Edited" for users to notice
