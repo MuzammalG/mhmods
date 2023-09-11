@@ -1,5 +1,6 @@
 MHWhatsApp / GBWhatsApp Update Notifier~
 by Muzammal Hussain..
+
 ![MHWhatsApp By MH](https://github.com/MuzammalG/mhmods/assets/111923729/5b873337-2a19-4d40-bfcd-84a72e2348ee)
 
 
@@ -12,6 +13,7 @@ Download From link below:
 http://za.gl/mh981
 
 What's New in V9.81
+
 ⏫ Base Updated 2.23.13.76
 📌 Exclusive Added "Mark As Read" inside chat when hide blue tick is enabled
 📌 Exclusive Media Backup/Restore option (Images, Videos, etc.)
