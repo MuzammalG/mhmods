@@ -7,7 +7,7 @@ by Muzammal Hussain..
 Download MHWhatsApp From
 https://mhwhatsapps.blogspot.com
 
-The Latest Version Of MHWhatsApp is: (V9.81)
+<mark>The Latest Version Of MHWhatsApp is: (V9.81)</mark>
 
 Download From link below:
 http://za.gl/mh981
