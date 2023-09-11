@@ -9,15 +9,15 @@ Download MHWhatsApp From
 https://mhwhatsapps.blogspot.com
 
 𝗧𝗵𝗲 𝗟𝗮𝘁𝗲𝘀𝘁 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗢𝗳 𝗠𝗛𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗶𝘀: (𝗩𝟵.𝟴𝟭)
-[mh9 81](https://github.com/MuzammalG/mhmods/assets/111923729/adaa3a5e-e1b5-4acc-8c8a-5eb781d2774e)
+![mh9 81](https://github.com/MuzammalG/mhmods/assets/111923729/adaa3a5e-e1b5-4acc-8c8a-5eb781d2774e)
 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐅𝐫𝐨𝐦 𝐥𝐢𝐧𝐤 𝐛𝐞𝐥𝐨𝐰:
 http://za.gl/mh981
 
 🆆🅷🅰🆃'🆂 🅽🅴🆆 🅸🅽 🆅9.81
 
-⏫ Base Updated 2.23.13.76!/
-📌 Exclusive Added "Mark As Read" inside chat when hide blue tick is enabled/
-📌 Exclusive Media Backup/Restore option (Images, Videos, etc.)/
+⏫ Base Updated 2.23.13.76! <br />
+📌 Exclusive Added "Mark As Read" inside chat when hide blue tick is enabled<br />
+📌 Exclusive Media Backup/Restore option (Images, Videos, etc.)<br />
 —> MHWA > Universal > Backup and Restore/
 - Useful for Android 11+ users to backup media before uninstall/
 ➕ Added See Original Message before Edit
